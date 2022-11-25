@@ -48,7 +48,6 @@
 <jsp:include page="navigation.jsp" flush="true"></jsp:include>
 <%@ include file="navigation.jsp" %>
 
-
   <!-- ======= Sidebar ======= -->
   <aside id="sidebar" class="sidebar">
 
